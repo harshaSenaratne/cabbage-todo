@@ -22,7 +22,8 @@ Above command will open the browser and you will be able to choose either browse
 
 ## Preview
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/25275596/129400638-0cc57212-582c-4a6b-9d7f-db763592e124.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/25275596/129401059-08de9ef4-467a-47e0-95ed-1f4349ffe960.gif)
+
 
 
 
